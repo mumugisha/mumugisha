@@ -1,4 +1,4 @@
-# Hi, I'm Alphonse Mugishai! 👋
+# Hi, I'm Alphonse Mugisha! 👋
 
 I am an enthusiastic Software Engineer with a deep passion for technology, innovation, and creativity. Throughout my career, I have been driven by my interest in solving complex problems and developing software solutions that enhance efficiency and user experience. My expertise spans across various programming languages and frameworks, which I have applied in creating both front-end and back-end systems.
 
