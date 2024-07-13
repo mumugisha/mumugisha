@@ -27,3 +27,7 @@ I believe in the power of collaboration and am keen on discussing ideas, trends,
 
 
 I look forward to the possibility of discussing our shared interests and how we can work together in the future! 🚀
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mumugisha)](https://git.io/streak-stats)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mumugisha"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mumugisha&theme=github"/>
