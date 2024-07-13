@@ -23,5 +23,7 @@ I believe in the power of collaboration and am keen on discussing ideas, trends,
 
 - [Twitter](https://twitter.com/r_prudent)
 - [LinkedIn](https://www.linkedin.com/in/mumugisha/)
+- [Kaggle](https://www.kaggle.com/mumugisha/)
+
 
 I look forward to the possibility of discussing our shared interests and how we can work together in the future! 🚀
